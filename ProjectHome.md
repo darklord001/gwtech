@@ -1,0 +1,1 @@
+Incubator Project for useful GWT integration utilities with GWT 2.x, GXT 2.x, Spring 3, Spring Security 3, Hibernate 3 & JPA.
